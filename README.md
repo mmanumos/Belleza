@@ -12,4 +12,4 @@
 - Microsoft.EntityFrameworkCore.Tools
 - Swashbuckle.AspNetCore 6.2.3
 
-Nota: En la carpeta base de datos, se encuentra el backup de la base de datos sql server que se uso.
+Nota: En la carpeta base de datos, se encuentra el backup de la base de datos sql server que se uso y en la carpeta diagrama, el diagrama entidad relación.
